@@ -1,0 +1,19 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing & Computer Vision
+opencv-python
+Pillow
+
+# Data Handling & Analysis
+pandas
+numpy
+
+# Utilities & Metrics
+tqdm
+editdistance
+matplotlib
+
+# Environment
+ipykernel
