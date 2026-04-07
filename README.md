@@ -33,9 +33,9 @@ The system follows a modular pipeline:
 
 ## 📂 Repository Structure
 ```text
-├── TA2 Project.ipynb          # Full training and evaluation pipeline
-├── OCR_AI_TA2_Presentation    # Project presentation slides
-├── SROIE_Audit_Report.csv     # Sample output from the forensic audit
+├── TA2_PROJECT_OCR.ipynb          # Full training and evaluation pipeline
+├── AI_TA2_Presentation_OCR    # Project presentation slides
+├── requirements.txt
 └── README.md                  # Project documentation
 
 
