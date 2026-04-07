@@ -37,7 +37,21 @@ The system follows a modular pipeline:
 ├── OCR_AI_TA2_Presentation    # Project presentation slides
 ├── SROIE_Audit_Report.csv     # Sample output from the forensic audit
 └── README.md                  # Project documentation
+
+
 ```
+
+Installation
+To set up the environment, ensure you have Python 3.8+ installed, then run:
+
+Bash
+pip install -r requirements.txt
+Note: If you are using a GPU (like the RTX 4060), ensure your CUDA version matches your PyTorch installation.
+
+Dataset Access
+The model is trained and evaluated on the SROIE (Scanned Receipts OCR and Information Extraction) dataset. You can download the official data from the following sources:
+
+Kaggle (Pre-organized): SROIE Dataset on Kaggle: https://www.kaggle.com/datasets/urbikn/sroie-datasetv2
 
 ## 📊 Results
 The model demonstrates robust performance on structured financial documents:
