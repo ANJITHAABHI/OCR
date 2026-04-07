@@ -31,16 +31,6 @@ The system follows a modular pipeline:
 * **Data Handling**: Pandas, NumPy
 * **Metrics**: Edit-Distance (for CER calculation)
 
-## 📂 Repository Structure
-```text
-├── TA2_PROJECT_OCR.ipynb          # Full training and evaluation pipeline
-├── AI_TA2_Presentation_OCR    # Project presentation slides
-├── requirements.txt
-└── README.md                  # Project documentation
-
-
-```
-
 Installation
 To set up the environment, ensure you have Python 3.8+ installed, then run:
 
